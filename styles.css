@@ -1,0 +1,227 @@
+body {
+  background: #202124;
+  font-family: sans-serif;
+}
+.googlelogo {
+  position: absolute;
+  top: 480px;
+  margin-left: 1060px;
+}
+
+.Gmail {
+  
+ color: white;
+  position: absolute;
+  top: -25px;
+  width: 330px;
+  height: 0px;
+  margin-top: 49px;
+  right: 0px;
+  margin-right: 4px;
+}
+.Images {
+  color: white;
+  position: absolute;
+  top: -25px;
+  width: 270px;
+  height: 0px;
+  margin-top: 49px;
+  right: 0px;
+  margin-right: 4px;
+}
+.Signin {
+  
+  position: absolute;
+  top: 0px;
+  width: 100px;
+  height: 0px;
+  margin-top: 49px;
+  right: 0px;
+  margin-right: 4px;
+  box-sizing: border-box;
+  background-color: #c2e7ff;
+  padding: 10px 12px;
+  margin: 12px 16px 12px 10px;
+  min-width: 85px;
+  display: inline-block;
+  font-size: 14px;
+  min-height: 40px;
+  outline: none;
+  text-align: center;
+  line-height: 18px;
+  border-radius: 100px;
+
+}
+.menu-icon {
+  -webkit-filter: invert(100%);
+  filter: drop-shadow(none);
+  
+}
+
+.circle-shadow {
+ 
+  position: absolute;
+  top: -25px;
+  width: 180px;
+  height: 0px;
+  margin-top: 49px;
+  right: 0px;
+  margin-right: 4px;
+  border: none; display: none \9"
+  
+}
+
+
+.searchicons {
+  height: 24px;
+  width: 24px;
+}
+
+.search-bar {
+  background-color: lightgrey;
+  border: 1px solid white;
+  width: 600px;
+  height: 45px;
+  border-radius: 30px;
+  display: flex;
+  align-items: center;
+  padding-left: 15px;
+  margin-left: 900px;
+  margin-top: 600px;
+}
+
+.search-bar span {
+  color: gray;
+  margin-right: 15px;
+  
+  
+}
+
+.search-bar input {
+  flex-grow: 0.95;
+  height: 30px;
+  margin-right: 15px;
+  font-size: 16px;
+  background-color: lightgrey;
+  border: none;
+  outline: none;
+  
+}
+
+.search-bar svg {
+  cursor: pointer;
+  height: 20px;
+  line-height: 25px;
+  width: 25px;
+  fill: currentColor;
+}
+
+.search-bar:hover {
+  box-shadow: 0px 0px 4px 0px whitesmoke;
+}
+
+.search-btn {
+  margin-top: 40px;
+  margin-left: 1080px;
+}
+
+
+.search-btn button {
+  background-color: #303134;
+  border: 1px solid #303134;
+  border-radius: 4px;
+  color: #e8eaed;
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+  margin: 11px 4px;
+  padding: 0 16px;
+  line-height: 27px;
+  height: 36px;
+  min-width: 54px;
+  text-align: center;
+  cursor: pointer;
+}
+
+.search-btn button:hover {
+  border: 1px solid #bfbfbf;
+}
+
+.language {
+  margin-left: 1150px;
+  color: white;
+  margin-top: 20px;
+  font-size: 14px;
+}
+
+.language p a {
+  
+  color: blue;
+}
+
+.language p a:hover {
+  text-decoration: underline;
+}
+
+a {
+  text-decoration: none;
+}
+.link:hover {
+  text-decoration: underline;
+}
+
+
+.footer-content {
+  display: flex;
+  align-items: center;
+  padding: 20px;
+}
+
+.upper-footer {
+  height: 50%;
+  border-bottom: 1px solid #313335;
+  margin-top: 400px;
+}
+
+.upper-footer p {
+  color: white;
+  font-size: 14px;
+}
+
+.lower-footer {
+  height: 50%;
+  display: flex;
+  justify-content: space-between;
+  margin-top: -30px;
+  margin-left: -40px;
+}
+
+.lower-footer ul li a {
+  font-size: 14px;
+  color: white;
+}
+
+.lower-footer ul li a:hover {
+  text-decoration: underline;
+}
+
+.lower-left-footer {
+  display: flex;
+}
+
+.lower-left-footer li {
+  margin-right: 15px;
+}
+
+.lower-right-footer {
+  display: flex;
+}
+
+.lower-right-footer li {
+  margin-left: 15px;
+}
+
+li{
+  list-style: none;
+}
+
+
